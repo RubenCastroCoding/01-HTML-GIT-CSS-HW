@@ -6,3 +6,6 @@ This is my first weeks homework repository. This weeks assignment was to refacto
 
 
 ![Capture](https://user-images.githubusercontent.com/98436010/157369260-d36c96a8-8490-42ed-8af5-8e2cb72d5717.PNG)
+
+<h1> url to my live website </h1>
+https://rubencastrocoding.github.io/01-HTML-GIT-CSS-HW/
