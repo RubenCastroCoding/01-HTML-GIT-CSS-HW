@@ -3,23 +3,23 @@
     padding: 0;
     margin: 0;
 }
-
+/* changed background color of the body element */
 body {
     background-color: #d9dcd6;
 }
-
+/*this changes the padding, font, background color and font family*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS','Lucida Sans Unicode','Lucida Grande','Lucida Sans','Arial','sans-serif';
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* changed the font size to 48px and display to inline on the h1 element inside of the header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* changed color of h1 element with seo class inside the header */
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -40,12 +40,12 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* chaged the color of the links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* changed font size of all paragraphs to 16px */
 p {
     font-size: 16px;
 }
@@ -62,7 +62,7 @@ p {
     float: left;
     margin-right: 25px;
 }
-
+/* makes elements with float right class appear floating to the right */
 .float-right {
     float: right;
     margin-left: 25px;
